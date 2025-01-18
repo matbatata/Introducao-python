@@ -1,4 +1,4 @@
-# 📚 Exercícios do Primeiro Semestre de 2024
+# 📚 Exercícios de intodução ao Python 2024
 
 Este repositório tem como objetivo estudar conceitos fundamentais de programação em Python, especificamente variáveis, estruturas condicionais (`if`, `else`, `elif`) e loops (`while`). 
 
