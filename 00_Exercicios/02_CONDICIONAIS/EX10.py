@@ -23,5 +23,4 @@ elif opcao == 2:
 elif opcao == 3:
     print(harmonica)
 elif opcao == 4:
-    print(aritmetica)
-#corrigido pelo mat
+    print(aritmetica) 
