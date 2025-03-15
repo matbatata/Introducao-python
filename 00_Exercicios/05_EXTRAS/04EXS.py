@@ -20,4 +20,3 @@ else:
     elif opcao == 2: 
         print(soma)
 
-#corrigido em aula
