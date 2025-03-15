@@ -22,4 +22,3 @@ elif opcao == 4:
     else:
         print(a/b)
 
-# corrigido
