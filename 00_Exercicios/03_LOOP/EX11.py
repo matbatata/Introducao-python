@@ -8,4 +8,3 @@ while contador <= x:
     div += 1
     contador += 1
 
-#corrigido
