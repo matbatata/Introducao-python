@@ -9,4 +9,3 @@ while x <= 1000:
 
 print("A soma é:", soma)
 
-#corrigido
