@@ -14,5 +14,5 @@ while True:
         print("Menor do que o número secreto")
     
 
-print("O número secreto é: ",s)  
+print("O número secreto é: ",s) 
 
