@@ -6,4 +6,4 @@ soma = a+b+c+d
 
 print("Média: ", soma / 5)
 
-# Corrigido
+
