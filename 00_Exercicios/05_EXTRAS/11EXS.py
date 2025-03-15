@@ -6,4 +6,3 @@ while soma<=100:
     print("Soma atual:", soma)      
 print("A soma é:",soma)
 
-#top
