@@ -27,4 +27,3 @@ while True:
     else:
         print("Escolha inválida")
 
-#corrigido
