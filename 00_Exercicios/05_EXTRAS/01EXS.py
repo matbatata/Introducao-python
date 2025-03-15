@@ -11,5 +11,4 @@ if media >= 7:
 else:
     print ("reprovado")
 
-# parabéns 
-# else não precisa de condição
+
