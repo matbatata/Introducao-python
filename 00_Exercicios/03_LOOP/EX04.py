@@ -6,4 +6,3 @@ while contador < 5:
         contador += 1
     numero += 1
 
-# corrigido
