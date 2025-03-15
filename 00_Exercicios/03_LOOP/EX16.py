@@ -6,4 +6,3 @@ while i <= n:
     i += 1
 print(numero_harmonico)
 
-#corrigido
