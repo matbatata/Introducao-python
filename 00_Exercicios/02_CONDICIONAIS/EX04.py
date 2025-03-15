@@ -7,4 +7,4 @@ if emprestimo > porcentagem:
 else:
     print("Empréstimo concedido")
 
-#corrigido
+
