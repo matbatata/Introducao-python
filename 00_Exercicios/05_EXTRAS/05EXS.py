@@ -6,6 +6,4 @@ while potencia <= 5:
     digito = (x // pow(10, potencia)) % 10
     print(digito)
     potencia += 1
-
-# Se quiser imprimir o valor de potencia ao final do loop, faça isso fora do loop
 print("Potência final:", potencia)
