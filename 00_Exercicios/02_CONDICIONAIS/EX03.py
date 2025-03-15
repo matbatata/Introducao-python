@@ -6,4 +6,4 @@ if resto == 0:
 else:
     print("o numero é impar!")
 
-# parabéns
+
