@@ -1,5 +1,5 @@
 reais = float(input("Informe a quantidade de reais para conversão em US$ "))
-contacao = 4.93 # dia 27 de fev
+contacao = 5.74 # dia 15 de março
 print (reais*contacao)
 
-# corrigido
+
