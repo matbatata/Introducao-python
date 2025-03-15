@@ -15,4 +15,3 @@ else:
         contador+=1
 print(n)
 
-# PARABÉNS!!, mas quantas vezes eu coloquei n? Não está aparecendo...
