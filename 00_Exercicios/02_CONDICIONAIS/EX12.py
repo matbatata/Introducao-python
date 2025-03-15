@@ -16,4 +16,4 @@ elif d == 6:
 elif d == 7:
     print("domingo")
 
-# corrigido
+
