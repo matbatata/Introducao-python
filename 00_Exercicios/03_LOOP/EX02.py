@@ -8,4 +8,3 @@ while i < n:
   i += 1
   ímpar += 2
 
-# corrigido
