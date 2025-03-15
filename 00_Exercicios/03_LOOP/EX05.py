@@ -5,4 +5,3 @@ while i<=maximo:
     i+=2
 print("Fim")
 
-#corrigido
