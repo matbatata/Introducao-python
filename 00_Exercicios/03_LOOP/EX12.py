@@ -11,4 +11,3 @@ while contador <= x:
 
 print("Soma:", soma)
 
-# corrigido
