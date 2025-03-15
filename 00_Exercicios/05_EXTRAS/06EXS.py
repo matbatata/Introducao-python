@@ -16,4 +16,3 @@ while True:
 
 print("O loop foi executado", i, "vezes.")
 
-# corrigido
