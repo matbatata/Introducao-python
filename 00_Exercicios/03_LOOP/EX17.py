@@ -12,4 +12,3 @@ while linha_atual < numero_de_linhas:
         linha_atual+=1
         cota = 0
 
-#feito em aula 
