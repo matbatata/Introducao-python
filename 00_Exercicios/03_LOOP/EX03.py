@@ -6,5 +6,3 @@ while contador < n:
     contador += 1
     numero_impar += 2
 
-# corrigido
-# parabéns
