@@ -23,4 +23,4 @@ elif altura > 1.70 and peso >= 90:
     print("I")
 else:
     print("Dado inválido")
-#corrigido pelo mat
+
