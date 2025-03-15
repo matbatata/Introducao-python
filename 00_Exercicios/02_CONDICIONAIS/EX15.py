@@ -14,4 +14,3 @@ while True:
     else:
         print("Esta equação não possui raízes reais.")
 
-#corrigido
