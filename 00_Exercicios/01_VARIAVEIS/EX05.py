@@ -4,4 +4,3 @@ if n < 0 and n > 2024:
 elif 2024 - n:
     print(2024 - n)
 
-# corrigido
