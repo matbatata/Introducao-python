@@ -7,4 +7,3 @@ if b>a:
 else:
     print("os dois números são iguais")
 
-#parabéns
