@@ -4,4 +4,4 @@ c = int(input("digite o ultimo número:"))
 soma = a+b+c
 print(soma) 
 
-#ok
+
