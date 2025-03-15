@@ -11,5 +11,3 @@ while i<=n:
             break
     i+=1
 
-
-#perfeito :D
