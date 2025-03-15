@@ -1,4 +1,3 @@
-# Definindo as variáveis
 n = int(input("Defina o enésimo termo: "))
 contador = 1
 i = 0
@@ -19,4 +18,4 @@ else:
 
     print("O valor da sequência de Fibonacci é:", k)
 
-#BOM
+
