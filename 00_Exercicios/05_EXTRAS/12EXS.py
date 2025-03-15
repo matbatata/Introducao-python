@@ -8,4 +8,3 @@ while True:
     else:
         print("o número",n,"não é divisor de 5")
 
-#corrigido 
