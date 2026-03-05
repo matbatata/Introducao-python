@@ -10,5 +10,6 @@ if media >= 7:
 
 else:
     print ("reprovado")
+    
 
 
